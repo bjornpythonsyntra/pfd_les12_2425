@@ -1,0 +1,24 @@
+voornaam,achternaam,functie,startjaar,geslacht,maandloon,afdeling,bedrijfwagen
+Frederick,Francken,CEO,2007,Man,5500,Management,ja
+Mark,Francken,CTO,2007,Man,5000,Management,ja
+Inge,Verjans,CFO,2008,Vrouw,4250,Management,ja
+Marleen,Claesen,HR Manager,2009,Vrouw,4000,Hr,ja
+Peter,Hermans,Project manager,2010,Man,2800,IT,ja
+Pauline,Mertens,Administratief medewerker,2011,Vrouw,1980,Admin,nee
+Bart,Mertens,Senior Developer,2012,Man,2400,IT,ja
+Karel,Verbeeck,Senior Developer,2014,Man,2350,IT,ja
+Marlies,Peeters,Boekhoudster,2014,Vrouw,2100,Admin,nee
+Pieter,Francken,Data admin,2015,Man,2250,Admin,nee
+Sofie,Francken,HR medewerker,2017,Vrouw,2000,Hr,nee
+Lieze,Mertens,Marketing medewerker,2018,Vrouw,2120,Sales,ja
+Axel,Peeters,Developer,2019,Man,1900,IT,ja
+Lisa,Claes,Developer,2019,Vrouw,1900,IT,ja
+Lindsey,Fransen,Onthaal,2019,Vrouw,1700,Admin,nee
+Maxim,Jansen,Developer,2020,Man,1850,IT,nee
+Sander,Vaes,Webdeveloper,2020,Man,1850,IT,nee
+Nick,Peeters,Junior developer,2020,Man,1700,IT,nee
+Jannick,Thijsen,Junior developer,2020,Man,1700,IT,nee
+Sanne,Verjans,Junior developer,2021,Vrouw,1600,IT,nee
+Jasper,Thijs,Junior developer,2021,Man,1600,it,nee
+Linda,Verjans,stagiair,2022,Man,0,Admin,nee
+Mara,Perugio,Office manager,2024,v,5000,admin,ja
